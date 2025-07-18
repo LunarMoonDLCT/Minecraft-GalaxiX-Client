@@ -1,4 +1,4 @@
 # Minecraft-Galaxy-Client
 Client for minecraft
 
-App installer galacy Client COMMING SOON!
+App installer Galaxy Client COMMING SOON!
