@@ -1,4 +1,6 @@
 # Minecraft-Galaxy-Client
 Client for minecraft
 
-App installer Galaxy Client COMMING SOON!
+## Installer client
+Use this [app](https://github.com/LunarMoonDLCT/GalaxyClientInstaller) to install GalaxyClient
+
