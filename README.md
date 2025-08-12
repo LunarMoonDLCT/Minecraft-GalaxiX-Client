@@ -6,5 +6,5 @@ Use this [app](https://github.com/LunarMoonDLCT/GalaxyClientInstaller) to instal
 ## If linux error sound
 If you are a Linux user and the game has sound errors or no sound, please use the [fabric](https://fabricmc.net/) version to fix the error.
 
-##Launcher
+## Launcher
 Use Minecraft Launcher, or Others Launcher to run this client
