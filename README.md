@@ -1,4 +1,4 @@
-# Minecraft-Galaxy-Client modspack optimazer for minecraft
+# Minecraft-GalaxiX-Client modspack optimazer for minecraft
 
 ## Installer client
 Use this [app](https://github.com/LunarMoonDLCT/GalaxyClientInstaller) to install GalaxyClient
